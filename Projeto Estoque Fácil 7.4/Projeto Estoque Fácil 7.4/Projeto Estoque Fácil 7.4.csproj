@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5213BEF7-3075-4AFA-B4E6-0D83135D0805}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto_Estoque_Fácil_7._4</RootNamespace>
+    <AssemblyName>Projeto Estoque Fácil 7.4</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlteracaodeCentrodeCustoPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlteracaodeCentrodeCustoPopUp.Designer.cs">
+      <DependentUpon>AlteracaodeCentrodeCustoPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlteracaodeFornecedorPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlteracaodeFornecedorPopUp.Designer.cs">
+      <DependentUpon>AlteracaodeFornecedorPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlteracaodeGrupoPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlteracaodeGrupoPopUp.Designer.cs">
+      <DependentUpon>AlteracaodeGrupoPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlteracaodeMaterialPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlteracaodeMaterialPopUp.Designer.cs">
+      <DependentUpon>AlteracaodeMaterialPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlteracaoKitsdeMateriaisPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlteracaoKitsdeMateriaisPopUp.Designer.cs">
+      <DependentUpon>AlteracaoKitsdeMateriaisPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaMateriaisPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaMateriaisPopUp.Designer.cs">
+      <DependentUpon>ConsultaMateriaisPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaMateriaisPopUp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaMateriaisPopUp2.Designer.cs">
+      <DependentUpon>ConsultaMateriaisPopUp2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlteraçãodeKitsdeMateriais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlteraçãodeKitsdeMateriais.Designer.cs">
+      <DependentUpon>FormAlteraçãodeKitsdeMateriais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlteraçãodeMateriais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlteraçãodeMateriais.Designer.cs">
+      <DependentUpon>FormAlteraçãodeMateriais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExclusãodeFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExclusãodeFornecedores.Designer.cs">
+      <DependentUpon>FormExclusãodeFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExclusãodeKitsdeMateriais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExclusãodeKitsdeMateriais.Designer.cs">
+      <DependentUpon>FormExclusãodeKitsdeMateriais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExclusãodeMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExclusãodeMaterias.Designer.cs">
+      <DependentUpon>FormExclusãodeMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInclusãodeGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInclusãodeGrupo.Designer.cs">
+      <DependentUpon>FormInclusãodeGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInclusãodeKitsdeMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInclusãodeKitsdeMaterias.Designer.cs">
+      <DependentUpon>FormInclusãodeKitsdeMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInclusãodeMateriais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInclusãodeMateriais.Designer.cs">
+      <DependentUpon>FormInclusãodeMateriais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlteraçãodeGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlteraçãodeGrupo.Designer.cs">
+      <DependentUpon>FormAlteraçãodeGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExclusãodeGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExclusãodeGrupo.Designer.cs">
+      <DependentUpon>FormExclusãodeGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AlteraçãodeFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AlteraçãodeFornecedores.Designer.cs">
+      <DependentUpon>Form_AlteraçãodeFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AlteraçãodoCentrodeCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AlteraçãodoCentrodeCusto.Designer.cs">
+      <DependentUpon>Form_AlteraçãodoCentrodeCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AparênciadoPrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AparênciadoPrograma.Designer.cs">
+      <DependentUpon>Form_AparênciadoPrograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AtualizaPrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AtualizaPrograma.Designer.cs">
+      <DependentUpon>Form_AtualizaPrograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSobre.Designer.cs">
+      <DependentUpon>FormSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_BemVindo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_BemVindo.Designer.cs">
+      <DependentUpon>Form_BemVindo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ChavedeRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ChavedeRegistro.Designer.cs">
+      <DependentUpon>Form_ChavedeRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ConfiguraçãodoSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ConfiguraçãodoSistema.Designer.cs">
+      <DependentUpon>Form_ConfiguraçãodoSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ExclusãodoCentrodeCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ExclusãodoCentrodeCusto.Designer.cs">
+      <DependentUpon>Form_ExclusãodoCentrodeCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_HistóricodasCorreçõeseModificações.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_HistóricodasCorreçõeseModificações.Designer.cs">
+      <DependentUpon>Form_HistóricodasCorreçõeseModificações.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_InclusãodeFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_InclusãodeFornecedores.Designer.cs">
+      <DependentUpon>Form_InclusãodeFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_InclusãodoCentrodeCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_InclusãodoCentrodeCusto.Designer.cs">
+      <DependentUpon>Form_InclusãodoCentrodeCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VocêSabia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VocêSabia.Designer.cs">
+      <DependentUpon>Form_VocêSabia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fornecedor.cs" />
+    <Compile Include="Custo.cs" />
+    <Compile Include="Grupo.cs" />
+    <Compile Include="ItemKit.cs" />
+    <Compile Include="Kit.cs" />
+    <Compile Include="ListConsultaMat.cs" />
+    <Compile Include="ListCusto.cs" />
+    <Compile Include="ListGrupo.cs" />
+    <Compile Include="ListFornecedor.cs" />
+    <Compile Include="ListItemKit.cs" />
+    <Compile Include="ListMaterial.cs" />
+    <Compile Include="Material.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AlteracaodeCentrodeCustoPopUp.resx">
+      <DependentUpon>AlteracaodeCentrodeCustoPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlteracaodeFornecedorPopUp.resx">
+      <DependentUpon>AlteracaodeFornecedorPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlteracaodeGrupoPopUp.resx">
+      <DependentUpon>AlteracaodeGrupoPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlteracaodeMaterialPopUp.resx">
+      <DependentUpon>AlteracaodeMaterialPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlteracaoKitsdeMateriaisPopUp.resx">
+      <DependentUpon>AlteracaoKitsdeMateriaisPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaMateriaisPopUp.resx">
+      <DependentUpon>ConsultaMateriaisPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaMateriaisPopUp2.resx">
+      <DependentUpon>ConsultaMateriaisPopUp2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlteraçãodeKitsdeMateriais.resx">
+      <DependentUpon>FormAlteraçãodeKitsdeMateriais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlteraçãodeMateriais.resx">
+      <DependentUpon>FormAlteraçãodeMateriais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExclusãodeFornecedores.resx">
+      <DependentUpon>FormExclusãodeFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExclusãodeKitsdeMateriais.resx">
+      <DependentUpon>FormExclusãodeKitsdeMateriais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExclusãodeMaterias.resx">
+      <DependentUpon>FormExclusãodeMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInclusãodeGrupo.resx">
+      <DependentUpon>FormInclusãodeGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInclusãodeKitsdeMaterias.resx">
+      <DependentUpon>FormInclusãodeKitsdeMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInclusãodeMateriais.resx">
+      <DependentUpon>FormInclusãodeMateriais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAlteraçãodeGrupo.resx">
+      <DependentUpon>FormAlteraçãodeGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExclusãodeGrupo.resx">
+      <DependentUpon>FormExclusãodeGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AlteraçãodeFornecedores.resx">
+      <DependentUpon>Form_AlteraçãodeFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AlteraçãodoCentrodeCusto.resx">
+      <DependentUpon>Form_AlteraçãodoCentrodeCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AparênciadoPrograma.resx">
+      <DependentUpon>Form_AparênciadoPrograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AtualizaPrograma.resx">
+      <DependentUpon>Form_AtualizaPrograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSobre.resx">
+      <DependentUpon>FormSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_BemVindo.resx">
+      <DependentUpon>Form_BemVindo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ChavedeRegistro.resx">
+      <DependentUpon>Form_ChavedeRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ConfiguraçãodoSistema.resx">
+      <DependentUpon>Form_ConfiguraçãodoSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ExclusãodoCentrodeCusto.resx">
+      <DependentUpon>Form_ExclusãodoCentrodeCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_HistóricodasCorreçõeseModificações.resx">
+      <DependentUpon>Form_HistóricodasCorreçõeseModificações.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_InclusãodeFornecedores.resx">
+      <DependentUpon>Form_InclusãodeFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_InclusãodoCentrodeCusto.resx">
+      <DependentUpon>Form_InclusãodoCentrodeCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VocêSabia.resx">
+      <DependentUpon>Form_VocêSabia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mtg.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Facebook.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botão ok.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botão ok 2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botão Sistema %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botão Ajuda cópia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fechar X.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Você Sabia.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Você Sabia 1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Você Sabia 2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Você Sabia 3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botão Tela de Inclusão.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BotãoAtualização.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abrir Foto.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Interrogação.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <None Include="Resources\lupa1.png" />
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,265 @@
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\Alexandre\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\-Fabs\Desktop\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\-Fabs\Desktop\Works\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeKitsdeMateriais.resources
+C:\Users\Alexandre\Desktop\Fabrício\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeKitsdeMateriais.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeKitsdeMateriais.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeKitsdeMateriais.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\-Fabs\Desktop\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeKitsdeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeKitsdeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmBemVindo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodeFornecedores.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodeFornecedores.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Atualizado Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodeFornecedores.resources
+<<<<<<< .mine
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeKitsdeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodeFornecedores.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeKitsdeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodeFornecedores.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmBemVindo.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodeFornecedores.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmVocêSabia.resources
+=======
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeKitsdeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodeFornecedores.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeKitsdeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodeFornecedores.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmBemVindo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodeFornecedores.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+>>>>>>> .r5
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Form_InclusãodoCentrodeCusto.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodoCentrodeCusto.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodoCentrodeCusto.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeKitsdeMateriais.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodeFornecedores.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeKitsdeMateriais.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodeFornecedores.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodoCentrodeCusto.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmBemVindo.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodeFornecedores.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodoCentrodeCusto.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmVocêSabia.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodoCentrodeCusto.resources
+>>>>>>> .r32
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodoCentrodeCusto.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodoCentrodeCusto.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmVocêSabia.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\EstoqueFacil.mdf
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\EstoqueFacil_log.ldf
+>>>>>>> .r11
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAparênciadoPrograma.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAtualizaPrograma.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmSobre.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmChavedeRegistro.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmConfiguraçãodoSistema.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodoCentrodeCusto.resources
+C:\Users\Alexandre\Desktop\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmHistóricodasCorreçõesceModificações.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmChavedeRegistro.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmChavedeRegistro.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodoCentrodeCusto.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAtualizaPrograma.resources
+>>>>>>> .r15
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAtualizaPrograma.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Form_ConfiguraçãodoSistema.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Teste.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmConfiguraçãodoSistema.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmSobre.resources
+>>>>>>> .r22
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmSobre.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmConfiguraçãodoSistema.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Teste.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Form_AparênciadoPrograma.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAparênciadoPrograma.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAparênciadoPrograma.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmHistóricodasCorreçõesceModificações.resources
+>>>>>>> .r29
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmHistóricodasCorreçõesceModificações.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe.config
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csprojResolveAssemblyReference.cache
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeGrupoPopUp.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeKitsdeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodeFornecedores.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeKitsdeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeMaterias.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeKitsdeMaterias.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormInclusãodeMateriais.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmPrincipal.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo1.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormExclusãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodeFornecedores.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAlteraçãodoCentrodeCusto.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAparênciadoPrograma.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmAtualizaPrograma.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmSobre.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmBemVindo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmChavedeRegistro.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmConfiguraçãodoSistema.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmExclusãodoCentrodeCusto.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmHistóricodasCorreçõesceModificações.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodeFornecedores.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmInclusãodoCentrodeCusto.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.frmVocêSabia.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.Properties.Resources.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto Estoque Fácil 7.4.csproj.GenerateResource.Cache
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.exe
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\bin\Debug\Projeto Estoque Fácil 7.4.pdb
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil - Alteração - Tentativa\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.FormAlteraçãodeGrupo.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeGrupoPopUp.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeMaterialPopUp.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeFornecedorPopUp.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeCentrodeCustoPopUp.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.ConsultaMateriaisPopUp.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaoKitsdeMateriaisPopUp.resources
+C:\Users\-Fabs\Desktop\Works\Estoque Fácil\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.ConsultaMateriaisPopUp2.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeCentrodeCustoPopUp.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeFornecedorPopUp.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeGrupoPopUp.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaodeMaterialPopUp.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.AlteracaoKitsdeMateriaisPopUp.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.ConsultaMateriaisPopUp.resources
+E:\Dropbox\FACULDADE\2º Ano\Linguagem de Programação Moderna (Prof Silas Romanha)\4º BI\Google Code\Projeto Estoque Fácil 7.4\Projeto Estoque Fácil 7.4\obj\Debug\Projeto_Estoque_Fácil_7._4.ConsultaMateriaisPopUp2.resources

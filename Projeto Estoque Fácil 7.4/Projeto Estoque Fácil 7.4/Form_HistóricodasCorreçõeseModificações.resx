@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>7.4 - Corrigido opção de envio de mensagens pelo programa, para o novo
+      servidor da MTG Softwares.
+    - Adicionado os campos "NCM" e "Observações" no cadastro de material.
+    - Adicionado o campo "peso" no cadastro de material.
+    - Corrigido erro no cadastro do pedido de compra.
+7.3 - Adicionado função para reordenar os arquivos semanalmente;
+    - Alterado o relatório de movimentação do material por centro de custo,
+      para exibir o total por item;
+    - Corrigido erro na janela de alteração de materiais que exibia grupos
+      excluídos;
+    - Adicionado opção de escolher o tipo do valor (custo/saída) no relatório
+      de composição do kit;
+    - Adicionado a opção de incluir o saldo anterior no relatório de
+      movimentação do material;
+    - Adicionado o centro de custo no relatório "nota de entrada ou saída";
+    - Adicionado relatório de movimentação de material por grupo;
+    - Alterado rotina de envio de e-mail para o suporte técnico;
+    - Conversão do programa fonte do Delphi 2007 para o Delphi XE3.
+
+7.2 - Alterado o programa para fechar as janelas de cadastramento que estiverem
+      abertas quando as janelas de reordenar arquivos, realizar backup e
+      restaurar backup forem abertas;
+    - Adicionado opção na janela de reordenar arquivos para recalcular o valor
+      de saída do material;
+    - Corrigido erro na janela de cadastro de materiais;
+    - Adicionado opção de relatório sumarizado por Centro de custo no
+      relatório de saídas por centro de custo.
+
+7.1 - Adicionado o número do fabricante do material na impressão do pedido;
+    - Corrigido erro de exibição das casas decimais no cadastro do pedido;
+    - Corrigido erro no acesso à janela de conversão de pedidos em entradas;
+    - Corrigido erro no idioma das tabelas do banco de dados;
+    - Corrigido erro nas consultas que não ordenavam adequadamente quando
+      se clicava no título da coluna;
+    - Corrigido erro na janela de permissões de acesso do usuário.
+
+7.0 - Adicionado cadastro de pedidos de compras;
+    - Adicionado opções para alteração e exclusão dos pedidos de compras;
+    - Adicionado relatório do pedido de compra;
+    - Adicionado opção de transformar pedido em entrada de material.
+=========================================================================
+6.7.5 Correções diversas.
+6.7.4 Correções diversas.
+6.7.3 Correções diversas.
+6.7.2 Corrigido erro no relatório de saídas por kit.
+6.7.1 Corrigido erro na exibição das casas decimais na janela de alteração
+      de kits de materiais;
+    - Corrigido erro na exportação dos relatórios para arquivos em disco.
+6.7 - Corrigido erro na exibição das casas decimais na janela de cadastro
+      de kits de materiais;
+    - Corrigido erro na exibição das casas decimais nas janelas de alteração
+      de entradas e saídas de materiais;
+    - Corrigido erro na consulta do número do fabricante nas janelas de
+      entradas e saídas de materiais por No. do Fabricante;
+    - Corrigido erro no relatório de entrada de material por data;
+    - Adicionado o número do material nos relatórios de entradas e saídas;
+    - Corrigido erro na saída de materiais por código de barras e por
+      número de fabricante, que não estavam avisando quando o saldo do item
+      atingia o estoque mínimo.
+6.6 - Corrigido erro na emissão das etiquetas com código de barras;
+    - Adicionado verificação da existencia prévia do no. fabricante na
+      janela de cadastramento de materiais.
+    - Corrigido erro do cálculo do valor total na janela de alteração de
+      entradas de materiais.
+    - Adicionado a foto do item na janela de "consulta materiais" do menu
+      lançamentos.
+6.5 - Adicionado os relatórios de resumo das saídas e resumos das entradas;
+      Adicionado relatório "Relação de Materiais - Simplificado 2";
+      Compatibilidade com o Windows 7.
+6.4 - Adicionado relatório específico para a movimentação do material por
+      Centro de Custo.
+    - Adicionado opção de excluir os itens com saldo zerado dos relatórios de
+      listagens de preço.
+    - Corrigido erro na classificação do relatório de "Movimentação do
+      Material";
+    - Corrigido erro na data do relatório "Nota de entrada ou saída".
+    - Correções diversas.
+6.3 - Adicionado opção de incluir a foto do material no cadastro de materiais e
+      esta foto será exibido nas janelas de entradas e saídas de materiais;
+    - Corrigido erro no cadastro do valor do material, quando a saída é
+      realizada através do kit de material;
+    - Adicionado opção de escolher o tipo de custo a ser utilizado no
+      relatório "Custo Total do Estoque - Mod. 1";
+    - Adicionado relatório de Composição do Kit;
+    - Adicionado tela de dica do dia na abertura do programa;
+    - Adicionado opção de separar por centro de custo no relatório de
+      movimentação do material.
+6.2 - Corrigido erro relatório de "Saídas de materiais - por data", que não
+      estava exibindo as datas;
+    - Corrigido erro no relatório de registro de inventário, quando era
+      solicitado a separação por grupos;
+    - Adicionado filtro por centro de custo nas janelas de exclusão de entradas
+      e de saídas de materiais;
+    - Adicionado filtro por centro de custo nas janelas de alteração de entradas
+      e de saídas de materiais;
+    - Corrigido erro no alteração de kits de materiais;
+    - Corrigido erro na totalização do valor dos itens do kit, na janela de
+      saída por kit de material.
+6.1 - Alterado o modo de exibição das janelas de cadastramento que passam a
+      serem exibidas uma ao lado da outra, usando a tecnologia TDI;
+    - Corrigido opção para acesso ao arquivo de ajuda;
+    - Adicionado verificação da duplicidade do lançamento da Nota de Compra,
+      nas janelas de inclusões e alterações de entradas de materiais;
+    - Adicionado verificação da duplicidade do lançamento da Nota de Saída ,
+      nas janelas de inclusões e alterações de saídas de materiais;
+    - Adicionado consulta por Nota de Compra nas telas de consulta das janelas
+      de alterações e exclusões de entradas de materiais;
+    - Adicionado consulta por Nota de Saída  nas telas de consulta das janelas
+      de alterações e exclusões de saídas de materiais.
+6.0 - Adicionado janela de cadastro dos kit´s de materiais;
+    - Adicionado janela de saídas por kit´s de materiais;
+    - Adicionado relatório de saídas por kit´s de materiais;
+    - Alterado as janelas de cadastramento que agora permitam a abertura das
+      janelas uma em cima da outra. O modelo de cadastramento também foi
+      alterado;
+    - A tabela de cadastro de movimentações foi separada. O sistema passa a ter
+      uma tabela para as entradas e outra para as saídas de materiais;
+    - Alterações em vários relatórios para atender as alterações nas tabelas
+      de movimentações;
+    - Adicionado opção de movimentação do material através do número do
+      fabricante.
+5.9 - Alterado opção de impressão de etiquetas para solicitar um intervalo de
+      itens a serem impressos;
+    - Atualizado o menu de opções para compatibilizar os skins com o Windows
+      Vista;
+    - Adicionado relatório de registro de inventário por centro de custo;
+    - Corrigido erro na opção de zerar saldo dos itens;
+    - Alterado configuração interna para acesso à assistência remota;
+    - Passou a ser opcional gravar o valor de custo no cadastro de materiais,
+      quando se está realizando uma entrada de materiais;
+    - Adicionado rotina no menu ferramentas para apagar toda a movimentação
+      realizada (entradas e saídas) e zerar saldos de todos os materiais;
+    - Alterado as rotinas de movimentação (entrada e saída), para avisar se foi
+      digitado uma data posterior à data do dia. A data do computador é usado
+      como referência da data do dia;
+    - Correções e otimizações diversas.
+5.8 - Adicionado mensagem de aviso na janela de saída de materiais, quando
+      um item atingir um saldo abaixo do estoque mínimo especificado na janela
+      de cadastro de materiais. Esta aviso pode ser desativado na janela de
+      configuração do sistema.
+    - Adicionado o campo "número do material" e "Documento" nos relatórios de
+      entrada e saída de materiais por centro de custo;
+    - Adicionado opção de filtro por grupo no relatório de estoque mínimo;
+    - Corrigido erro no relatório de inventário;
+    - Corrigido erro na localização de arquivo de backup na janela de restaurar
+      cópia de segurança quando o arquivo de backup não estava na pasta padrão.
+    - Corrigido erro no cálculo do custo médio, nos relatórios de registro de
+      inventário, quando era solicitado uma data anterior.
+    - Corrigido erro no relatório de entrada de materiais - por material.
+    - Otimizações diversas.
+5.7 - Sistema transportado do Delphi 7 para o Delphi 2007 para aumentar a
+      compatibilidade com o Windows Vista;
+    - Adicionado opção de assistência remota no menu ferramentas;
+    - Adicionado campo para informar o nome da foto que será exibida na tela
+      principal do programa. Esta opção está na janela de Configuração do
+      Sistema (menu sistema);
+    - Adicionado filtro por grupo e opção de sumarizar no relatório de
+      "entradas por centro de custo;
+    - Adicionado consulta por parte do nome do material;
+    - Alterado a janela de consulta de materiais, opção do menu movimentação;
+    - Corrigido erro no relatório de estoque simplificado, que não imprimia o
+      saldo em estoque.
+5.6 - Corrigido erro no relatório de saídas no período - por nota de saída;
+    - Adicionado relatório "Relação de materiais - Simplificado".
+5.5 - Nas janelas de movimentação de materiais, a data passa a ser repetida no
+      lançamento seguinte;
+    - Adicionado rotina de aumento do valor de custo do material;
+    - Adicionado o nome do fornecedor no relatório de entrada de material por
+      nota de entrada;
+    - Adicionado o número da nota de entrada no relatório de entrada por
+      fornecedor.
+5.4 - Incluido filtro opcional por centro de custo no relatório de movimentação
+      de material;
+    - Otimizado rotina de recálculo do custo médio, dentro da janela de
+      reordena arquivos;
+    - Passa a ser opcional a impressão da data da emissão do relatório, nos
+      relatórios de registro do inventário;
+    - Adicionado o nome do fornecedor no relatório de entradas no período
+      por material;
+    - Alterado a etiqueta de código de barras para imprimir 6 dígitos.
+5.3 - Adicionado opção de emitir sumarizado o relatório de saída de material
+      por centro de custo;
+    - Adicionado relatório de inventário por local;
+    - Adicionado opção de exclusão Centro de Custo mesmo que já tenha sido
+      utilizado na movimentação;
+    - Corrigido erros nas opções da janela de permissões de acesso;
+    - Alterado rotina de atualização do programa, que passa a ser checado
+      sempre que o programa é iniciado.
+5.2 - Adicionado opção de imprimir o preço na etiqueta de código de barras;
+    - Adicionado filtro por grupo nos relatórios de tabela de preços I e II;
+    - Corrigido erro na entrada de materiais, que ao informar um novo valor de
+      custo não calculava automaticametne o novo valor de venda, de acordo com o
+      percentual informado no cadastro de materiais.
+5.1 - Adicionado opção de enviar e-mail para o suporte técnico, diretamente
+      de dentro do programa. Esta opção está no menu ferramentas.
+    - Adicionado relatório "Relação dos Grupos";
+    - Adicionado opção de emitir o relatório de inventário com base no custo
+      médio ou no valor de custo;
+    - Adicionado o número do fabricante no relatório de entradas no período
+      por material e no de entradas no período por nota de entrada;
+    - Adicionado o número do fabricante no relatório de estoque mínimo;
+    - Adicionado o campo do número do fabricante nas consultas das janelas
+      de entradas e saídas de materiais;
+    - Alterado as janelas de movimentação com código de barras, para que o
+      campo código de barras aceite outros dígitos além de números;
+    - Movido a rotina de recálculo do custo médio do relatório de inventário
+      para a janela de reordenar arquivos;
+    - Otimizado a rotina recalcular o custo médio de todos os materiais;
+    - Corrigido erro no cadastro do saldo inicial na janela de cadastro de
+      materiais. O saldo inicial não estava sendo gravado;
+    - Corrigido erro na relatório "Custo Total do Estoque - Mod. II" que não
+      estava exibindo o valor do custo médio.
+    - Alterado as janelas de saídas de materiais para permitir o valor unitário
+      de saída igual a zero.
+    - Corrigido erros nas janelas de saídas de materiais.
+5.0 - Atualizado a versão do banco de dados para acelerar a velocidade do
+      acesso aos dados;
+    - Adicionado backup diário automático dos dados para o próprio winchester;
+    - Adicionado o cadastro de fornecedores;
+    - Adicionado o cálculo do custo médio;
+    - Adicinado opção de definir a quantidade de casas decimais;
+    - Adicionado relatório de fornecedores - resumida;
+    - Adicionado relatório de fornecedores - completa;
+    - Adicionado mais opções de skins (visual das telas).
+
+Versão  Conclusão    Linhas  Tamanho do programa executável
+------  -----------  ------  ----------------------------------------
+ 7.4    19/Jul/2014  27.676  14.190.592 bytes
+ 7.3    05/Mai/2013  27.058  14.215.680 bytes
+ 7.2    12/Mai/2012  26.871   9.116.672 bytes / 3.431.424 compactado
+ 7.1    15/Jan/2012  26.390   9.178.112 bytes / 3.451.392 compactado
+ 7.0    01/Nov/2011  26.320   8.001.984 bytes / 3.362.816 compactado
+ 6.7    19/Mar/2011  23.595   8.429.568 bytes / 3.360.768 compactado
+ 6.6    01/Nov/2010  23.402   8.365.568 bytes / 3.338.240 compactado
+ 6.5    25/Fev/2010  23.298   8.357.376 bytes / 3.278.848 compactado
+ 6.4    02/Jun/2009  23.364   8.228.864 bytes / 3.190.272 compactado
+ 6.3    12/Abr/2009  22.917   8.206.848 bytes / 3.194.368 compactado
+ 6.2    08/Mar/2009  22.361   7.718.400 bytes / 3.056.640 compactado
+ 6.1    23/Fev/2009  21.990   7.672.832 bytes / 3.051.520 compactado
+ 6.0    19/Jan/2009  21.962   7.689.728 bytes / 3.046.912 compactado
+ 5.9    01/Dez/2008  15.937   7.1c8.992 bytes / 2.947.584 compactado
+ 5.8    01/Set/2007  14.697   7.490.048 bytes / 3.194.880 compactado
+ 5.7    07/Jun/2007  14.411   7.457.280 bytes / 3.239.424 compactado
+ 5.6    05/Mai/2007  13.885   6.320.640 bytes / 2.678.272 compactado
+ 5.5    06/Abr/2007  13.710   6.305.280 bytes / 2.710.016 compactado
+ 5.4    09/Jan/2007  13.417   6.272.512 bytes / 2.697.216 compactado
+ 5.3    01/Dez/2006  13.387   6.260.440 bytes / 2.696.192 compactado
+ 5.2    01/Nov/2006  13.153   6.255.104 bytes / 2.695.168 compactado
+ 5.1    04/Out/2006  13.005   6.126.080 bytes / 2.660.352 compactado
+ 5.0    20/Set/2006  12.302   5.739.520 bytes / 2.524.160 compactado
+ 4.9    05/Mar/2006  12.882   4.654.080 bytes / 1.546.240 compactado
+ 4.8    22/Out/2005  12.847   5.634.112 bytes / 1.538.560 compactado
+ 4.7    22/Mai/2005  13.v10   4.653.056 bytes / 1.519.104 compactado</value>
+  </data>
+</root>
